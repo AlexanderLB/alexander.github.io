@@ -1,0 +1,26 @@
+/*Encabezado de la pagina*/
+#title{
+	margin: 0% 20% 0% 31%;
+	font-size: 200%;
+}
+
+.links{
+	text-decoration: none;
+	color: black;
+	margin: 0% 0% 0% 20%;
+}
+
+#main_links{
+	text-decoration: none;
+	margin-left: 23%;
+	color: black;
+}
+#an{
+	margin: 5% 20% 0% 20%;
+	font-size: 170%;
+}
+#an_p{
+	margin: 0% 20% 0% 20%;
+}
+
+
