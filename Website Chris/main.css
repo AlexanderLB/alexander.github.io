@@ -1,0 +1,77 @@
+
+/*CSS of the document index.html*/
+
+body{
+	background: black;
+}
+.title{
+	color: white;
+}
+.contents{
+	list-style-type: none;
+	padding: 20px 0px 20px 0px;
+}
+.personal-information{
+	padding-top: 20px;
+	padding-bottom: 50px;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+p{
+	color: white;
+}
+
+/*CSS of the document file_1.html*/
+
+.list{
+	color: white;
+}
+li{
+	list-style-type: none;
+	paddin: 20px 0px 20px 0px;
+}
+img{
+	padding-left: 50px;
+}
+
+/*CSS of the document file_2.html*/
+
+/*The script for the file 1 is the same for the file 2*/
+/*The script for the file 1 is the same for the file 3*/
+/*CSS of the document file_4.html*/
+h1{
+	color: white;
+}
+#first{
+	list-style-type: none;
+	padding-top: 10px;
+}
+.back{
+	background: white;
+}
+#greenspace{
+	padding-bottom: 25px;
+	padding-left: 10px;
+	padding-top: 25px;
+}
+.ad-inf{
+	color: white;
+}
+#second{
+	list-style-type: none;
+	padding: 10px 5px 10px 5px;
+}
+/*CSS of the document beverage.html*/
+
+#shakes{
+	color: white;
+	padding: 5px 0px 5px 0px;
+}
+#beverage{
+	color: white;
+}
+li{
+	padding: 5px 0px 5px 0px;
+}
