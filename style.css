@@ -25,8 +25,8 @@
 }
 
 @media screen and (max-width: 980px){
-	.links{
-		align-content: center;
+	header{
+		width: 10%;
 	}
 
 }
