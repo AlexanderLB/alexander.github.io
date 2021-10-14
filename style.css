@@ -23,7 +23,7 @@
 	margin: 0% 20% 0% 20%;
 }
 
-#an_p{
-	color: blue;
+@media screen and (max-width: 980px){
 }
+
 
