@@ -26,9 +26,13 @@
 
 @media screen and (max-width: 780px){
 	header{
-		width: 10%;
+		font-size: 100%;
+		margin: 0% 0% 0% 0%;
 	}
-
+	#main_links{
+		float: left;
+		text-decoration: none;
+	}
 }
 
 
