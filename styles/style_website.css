@@ -3,6 +3,13 @@ header{
 }
 .links{
 	margin-left: 23%;
+	text-decoration:  none;
+	color: black;
+}
+.social{
+	text-decoration: none;
+	color: black;
+	line-height: 25px;
 }
 #title{
 	text-align: center;
