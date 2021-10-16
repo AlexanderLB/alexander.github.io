@@ -1,12 +1,28 @@
-header{
+#title-index{
 	text-align: center;
+	text-decoration: justify;
 }
-a{
-	margin-left: 16%;
+{
+	margin-left: ;
 	text-decoration: none;
 	color: black;
 }
 section{
 	margin-left: 10%;
 	margin-right: 10%;
+}
+#link-1{
+	float: left;
+	text-decoration: none;
+	color: black;
+	padding-left: 2em;
+}
+#link-2{
+	float: right;
+	text-decoration: none;
+	color: black;
+	padding-right: 2em;
+}
+hr{
+	margin-top: 2em;
 }
