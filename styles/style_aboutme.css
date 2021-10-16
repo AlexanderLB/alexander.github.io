@@ -3,4 +3,10 @@ header{
 }
 .links{
 	margin-left: 21%;
+	text-decoration: none;
+	color: black;
+}
+#my-information{
+	padding: 2em 2em 2em 2em;
+	text-align: justify;
 }
