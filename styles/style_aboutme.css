@@ -1,12 +1,22 @@
 header{
 	text-align: center;
 }
-.links{
-	margin-left: 21%;
-	text-decoration: none;
-	color: black;
-}
 #my-information{
 	padding: 2em 2em 2em 2em;
 	text-align: justify;
+}
+#link-1{
+	text-decoration: none;
+	float: left;
+	padding-left: 2em;
+	color: black;
+}
+#link-2{
+	text-decoration: none;
+	float: right;
+	padding-right: 2em;
+	color: black;
+}
+hr{
+	margin-top: 2em;
 }

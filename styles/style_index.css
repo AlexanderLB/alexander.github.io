@@ -2,14 +2,9 @@
 	text-align: center;
 	text-decoration: justify;
 }
-{
-	margin-left: ;
-	text-decoration: none;
-	color: black;
-}
-section{
-	margin-left: 10%;
-	margin-right: 10%;
+#an{
+	margin-left: 2em;
+	margin-right: 2em;
 }
 #link-1{
 	float: left;
@@ -25,4 +20,7 @@ section{
 }
 hr{
 	margin-top: 2em;
+}
+#welc{
+	text-align: justify;
 }
